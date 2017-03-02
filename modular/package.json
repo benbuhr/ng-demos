@@ -27,6 +27,8 @@
     "serve-favicon": "^2.0.1"
   },
   "devDependencies": {
+    "@types/angular": "1.6.7",
+    "@types/jquery": "2.0.40",
     "browser-sync": "^1.6.5",
     "chai": "^1.9.1",
     "chai-as-promised": "^4.1.1",
